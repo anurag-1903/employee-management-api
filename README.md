@@ -2,7 +2,7 @@
 
 A FastAPI-based backend application for managing employees with secure JWT authentication.
 
-## 🚀 Features
+## Features
 - JWT-based Authentication
 - Employee CRUD Operations
 - Pagination & Search
@@ -10,7 +10,7 @@ A FastAPI-based backend application for managing employees with secure JWT authe
 - SQLite Database
 - Swagger API Documentation
 
-## 🛠 Tech Stack
+## Tech Stack
 - Python 3.11
 - FastAPI
 - SQLAlchemy
@@ -18,7 +18,7 @@ A FastAPI-based backend application for managing employees with secure JWT authe
 - JWT (python-jose)
 - Passlib (bcrypt)
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 ```bash
 git clone <your-repo-url>
